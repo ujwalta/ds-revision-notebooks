@@ -1,6 +1,8 @@
 This repository is a collection of my day-by-day revision notebooks for Data Science.
 I use it to revise core concepts, practice coding, and prepare for interviews.
+
 🔹 Contents
+
 ✅ Completed
 
 Day 1 → Python Basics, NumPy & Pandas
