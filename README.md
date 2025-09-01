@@ -34,11 +34,17 @@ for name, score in students.items():
         print(name, score)
 
 🔹 Folder Structure
+
 ds-revision-notebooks/
+
 │── Day1_Python_NumPy_Pandas.ipynb
+
 │── Day2_Data_Visualization.ipynb
+
 │── Day3_EDA.ipynb
+
 │── Day4_Machine_Learning.ipynb
+
 │── ...
 
 🔹 Connect with Me
