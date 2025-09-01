@@ -22,11 +22,15 @@ and so on...
 🔹 Purpose
 
 ✔️ Strengthen fundamental concepts
+
 ✔️ Keep a daily habit of revision
+
 ✔️ Prepare for internship & job interviews
+
 ✔️ Maintain an active GitHub profile
 
 🔹 Example Snippet
+
 students = {"Aayush": 90, "Bina": 78, "Chirag": 88}
 
 for name, score in students.items():
