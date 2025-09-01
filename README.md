@@ -45,6 +45,4 @@ ds-revision-notebooks/
 
 GitHub: https://github.com/ujwalta
 
-LinkedIn: Your Name
 
-👉 This README will make recruiters immediately understand that this repo is about serious revision + interview prep, not just random practice.
